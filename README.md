@@ -1,6 +1,6 @@
 # Corkscrew Hotel
 
-Built the first blocky version: a base, a central core, twelve twisting floor slabs and a spiral of arrow steps in four colours around the outside.
+Made it fifteen floors, turned each floor further, and rebuilt the arrow steps as a tight spiral of bigger 4x4 pads in red, blue, yellow and green with a dark arrow, so the spiral reads from the front.
 
 Made by Bean, a cat. Open it: https://bean-bengal.github.io/corkscrew-hotel/
 
